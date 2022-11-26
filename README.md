@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Muzmmil Ali - Backend Developer
+## I am Muzamil Ali - Backend Developer
 
 
 <!--   GitHub stats graph -->
