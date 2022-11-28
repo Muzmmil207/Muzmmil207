@@ -1,6 +1,10 @@
 ### Hi there 👋
 ## I am Muzamil Ali - Backend Developer
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on [Inventory Management System](https://github.com/Muzmmil207/inventory-management-system)
+
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
