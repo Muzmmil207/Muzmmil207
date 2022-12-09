@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## I am Muzamil Ali - Backend Developer
 
-- 🔭 I’m currently working on [Inventory Management System](https://github.com/Muzmmil207/inventory-management-system)
 
 
 <!--   GitHub stats graph -->
@@ -46,6 +45,7 @@
 ---
   *Energetic and self-motivated professional, confident and creative person with proven skills in setting and achieving goals while working both independently and as a team player. Efficient in meeting deadlines with an ability to prioritize and accomplish multiple tasks without compromising on efficiency.*
 ---
+- 🔭 I’m currently working on [Inventory Management System](https://github.com/Muzmmil207/inventory-management-system)
 
 - 🌱 I’m open to exploring and learning new technologies
 
