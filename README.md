@@ -1,8 +1,6 @@
 ### Hi there 👋
 ## I am Muzamil Ali - Backend Developer
 
-- 🔭 I’m currently working on [Inventory Management System](https://github.com/Muzmmil207/inventory-management-system)
-
 - 🌱 I am always enthusiastic about new technologies and
 eager to work on challenging projects.
 <br>
