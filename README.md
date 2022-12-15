@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Inventory management system](https://github.com/Muzmmil207/inventory-management-system)
 - 🌱 I am always enthusiastic about new technologies and
 eager to work on challenging projects.
-<br>
+
 <p align="left">
 </p>
 
@@ -11,17 +11,8 @@ eager to work on challenging projects.
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
 
- . | .
---- | --- 
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=Muzmmil207&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzmmil207&theme=radical&layout=compact)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzmmil207"></img>
-
-
-**📫 How to Reach me:**
+### 📫 How to Reach me:
 <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/muzamil-ali-63230a206">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
 </a>
@@ -35,11 +26,10 @@ eager to work on challenging projects.
 </a>
 
 
-#### Github Stats
+#### Github Stats:
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br/>
 
@@ -50,9 +40,11 @@ eager to work on challenging projects.
 </details>
 <br/>
 
-
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Muzmmil207&theme=react-dark&hide_border=true&area=true)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzmmil207"></img>
 
 #### Profile Visits
 
