@@ -13,7 +13,6 @@ eager to work on challenging projects.
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Muzmmil207&hide_border=true&theme=redical)
 
  . | .
 --- | --- 
@@ -37,11 +36,23 @@ eager to work on challenging projects.
 
 
 #### Github Stats
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br/>
 
-  <p align="left">
-    <img width="500px"
-      src="https://github-readme-stats.vercel.app/api?username=Muzmmil207&show_icons=true&theme=midnight-purple&line_height=25&hide=stars">
-  </p>
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=Muzmmil207&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzmmil207&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br/>
+
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Muzmmil207&theme=react-dark&hide_border=true&area=true)
+
 
 #### Profile Visits
 
