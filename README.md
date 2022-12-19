@@ -4,7 +4,6 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1uUm2wdXvghGPj7Afk8V6pVshfFdI0BlY/view?usp=drivesdk)
 - 🌱 I am always enthusiastic about new technologies and
 eager to work on challenging projects.
-
 <p align="left">
 </p>
 
