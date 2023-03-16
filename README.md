@@ -49,7 +49,7 @@ eager to work on challenging projects.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzmmil207"></img>
 
-#### Profile Visits
+#### Profile Visits:
 
   <p align="left">
     <img width="230px" src="https://profile-counter.glitch.me/Muzmmil207/count.svg" />
