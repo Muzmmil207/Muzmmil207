@@ -1,8 +1,8 @@
  ### Hi there 👋
 ## I am Muzamil Ali - Backend Developer
 <!--
-- 🔭 I’m currently working on [Inventory management system](https://github.com/Muzmmil207/inventory-management-system) -->
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1YAhhsZfjxj_R6aqXa3yQIiVIz-blBaU0/view?usp=drivesdk).
+- 🔭 I’m currently working on [Inventory management system](https://github.com/Muzmmil207/inventory-management-system) 
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/AhhsZfjxj_R6aqXa3yQIiVIz-blBaU0/view?usp=drivesdk). -->
 - 🌱 I am always enthusiastic about new technologies and
 eager to work on challenging projects.
 <p align="left">
