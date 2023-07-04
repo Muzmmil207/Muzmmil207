@@ -1,8 +1,8 @@
  ### Hi there 👋
-## I am Muzamil Ali - Backend Developer
+## I am Muzamil Ali - Web Developer
 <!--
-- 🔭 I’m currently working on [Inventory management system](https://github.com/Muzmmil207/inventory-management-system) 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/AhhsZfjxj_R6aqXa3yQIiVIz-blBaU0/view?usp=drivesdk). -->
+- 🔭 I’m currently working on [Inventory management system](https://github.com/Muzmmil207/inventory-management-system)  -->
+- 📄 Know about my experiences [here](https://muzmil-ali.netlify.app).
 - 🌱 I am always enthusiastic about new technologies and
 eager to work on challenging projects.
 <p align="left">
@@ -45,7 +45,8 @@ eager to work on challenging projects.
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Muzmmil207&theme=react-dark&hide_border=true&area=true)
+
+![Muzamil's  github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muzmmil207&theme=github-compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzmmil207"></img>
 
