@@ -1,7 +1,7 @@
  ### Hi there 👋
 ## I am Muzamil Ali - Web Developer
-<!--
-- 🔭 I’m currently working on [Inventory management system](https://github.com/Muzmmil207/inventory-management-system)  -->
+
+- 🔭 I’m currently working on [AdawatSEO](https://adawatseo.net)
 - 📄 Know about my experiences [here](https://muzmil-ali.netlify.app).
 - 🌱 I am always enthusiastic about new technologies and
 eager to work on challenging projects.
