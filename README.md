@@ -1,8 +1,8 @@
  ### Hi there 👋
 ## I am Muzamil Ali - Web Developer
 
-- 🔭 I’m currently working on [AdawatSEO](https://adawatseo.net)
-- 📄 Know about my experiences [here](https://muzmil-ali.netlify.app).
+- 🔭 I’m currently working on [Benribot](https://benribot.com/)
+- 📄 Know about my experiences [here](https://khidmatt.com).
 - 🌱 I am always enthusiastic about new technologies and
 eager to work on challenging projects.
 <p align="left">
