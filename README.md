@@ -2,7 +2,7 @@
 ## I am Muzamil Ali - Web Developer
 
 - 🔭 I’m currently working on [Benribot](https://benribot.com/)
-- 📄 Know about my experiences [here](https://khidmatt.com).
+- 📄 Know about my experiences [here](https://khidmatt.vercel.app).
 - 🌱 I am always enthusiastic about new technologies and
 eager to work on challenging projects.
 <p align="left">
